@@ -13,5 +13,13 @@
         <operation>equals</operation>
         <value>Yes</value>
     </filters>
+<<<<<<< HEAD
+    <filters>
+        <field>CORE.USERS.LAST_NAME</field>
+        <operation>contains</operation>
+        <value>A</value>
+    </filters>
+=======
+>>>>>>> dadb839e87fd2c761e2a2b3b2c1719f6728cc92a
     <label>Git-list</label>
 </ListView>

@@ -31,6 +31,23 @@
         <allowBack>true</allowBack>
         <allowFinish>true</allowFinish>
         <allowPause>true</allowPause>
+<<<<<<< HEAD
+        <connector>
+            <targetReference>Git_flujo_2</targetReference>
+        </connector>
+        <showFooter>true</showFooter>
+        <showHeader>true</showHeader>
+    </screens>
+    <screens>
+        <name>Git_flujo_2</name>
+        <label>Git flujo 2</label>
+        <locationX>176</locationX>
+        <locationY>278</locationY>
+        <allowBack>true</allowBack>
+        <allowFinish>true</allowFinish>
+        <allowPause>true</allowPause>
+=======
+>>>>>>> dadb839e87fd2c761e2a2b3b2c1719f6728cc92a
         <showFooter>true</showFooter>
         <showHeader>true</showHeader>
     </screens>
